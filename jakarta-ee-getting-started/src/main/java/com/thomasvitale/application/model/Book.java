@@ -1,8 +1,5 @@
 package com.thomasvitale.application.model;
 
-import javax.xml.bind.annotation.XmlRootElement;
-
-@XmlRootElement
 public class Book {
     private String id;
     private String title;
